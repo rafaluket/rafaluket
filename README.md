@@ -19,10 +19,9 @@
 # Hi there, ninja 🥷
 My name is Rafael Luquete. A Brazilean Software Engineer focused on back end development with Java ☕
 
-### 💻 Tech Stack:
+#### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![KAFKA](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![League of Legends](https://img.shields.io/badge/League%20Of%20Legends-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white) 
-### 📊 GitHub Stats:
+#### 📊 Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=rafaluket&theme=tokyonight&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rafaluket&icon=2&color=1)](https://visitcount.itsvg.in)
